@@ -40,7 +40,11 @@ You may be using [Facebook login page](https://www.facebook.com/login/)
   ```  
   # INLINE CODE  
   
-  This website is using 'own practice'.  
+  This website is using 'own practice'.    
+  
+  **How to study**  
+  
+  
   
   
   
